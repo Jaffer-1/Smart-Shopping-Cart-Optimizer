@@ -34,8 +34,8 @@ The core logic follows a classic **Greedy Approach**:
 3. *Note: Because this project uses ES6 Modules, you may need to run it through a local server (like VS Code's "Live Server" extension) to avoid CORS issues.*
 
 ---
-Built by Jaffer Shaik - AP24110011174
-Course: Coding Skills - II (B.Tech-CSE, 4th Semester)
-Submission Date: April 30, 2026
+* Built by Jaffer Shaik - AP24110011174
+* Course: Coding Skills - II (B.Tech-CSE, 4th Semester)
+* Submission Date: April 30, 2026
 
 
